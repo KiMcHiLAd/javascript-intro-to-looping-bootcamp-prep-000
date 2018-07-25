@@ -24,6 +24,7 @@ function whileLoop(n) {
 
 function doWhileLoop(array) {
   do 
+  array.length > 0 && maybeTrue()
 }
  describe('doWhileLoop(array)', () => {
     it('removes elements from `array` until `array` is empty or until `maybeTrue()` returns `false`', () => {
