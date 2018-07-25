@@ -14,3 +14,6 @@ return array
 
 
 
+function whileLoop(n) {
+  
+}
